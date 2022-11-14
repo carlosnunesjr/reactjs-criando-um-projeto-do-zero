@@ -1,0 +1,7 @@
+{
+  "apiEndpoint": "https://cnunes-reactjs-criando-um-projeto-do-zero.prismic.io/api/v2",
+  "libraries": [
+    "@/slices"
+  ],
+  "_latest": "0.5.2"
+}
